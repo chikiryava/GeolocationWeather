@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 ![image](https://github.com/chikiryava/GeolocationWeather/assets/98350681/1f2bd4e6-cb90-4070-bcf1-260a714603ca)
 
 
