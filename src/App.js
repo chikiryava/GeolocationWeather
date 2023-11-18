@@ -26,7 +26,6 @@ function App() {
             (error) => {
                 setError("You did not allow access to geolocation");
                 console.error(error.message);
-                setLoading(false);
             }
         );
     };
